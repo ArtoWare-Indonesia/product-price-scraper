@@ -15,15 +15,16 @@ Python web scraping project that extracts product names and prices from a practi
 - BeautifulSoup4
 - CSV
 
-## Installation
-
-```bash
-pip install -r requirements.txt
-
 ## usage
 
 python scraper.py
 
 ## output
 
-products.csv
+products.csv 
+
+
+## Installation
+
+```bash
+pip install -r requirements.txt
